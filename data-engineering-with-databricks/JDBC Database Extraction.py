@@ -28,8 +28,8 @@
 # MAGIC *Connectiondetails*
 # MAGIC - Server: sqlsrv-training-01.database.windows.net:1433
 # MAGIC - Database: sqldb-adventureworks-01
-# MAGIC - Username: harvest-training
-# MAGIC - Password: Rh82hs23#$1
+# MAGIC - Username: zie slide
+# MAGIC - Password: zie slide
 # MAGIC
 # MAGIC *Available tables*
 # MAGIC - SalesLT.Address
